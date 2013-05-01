@@ -6,6 +6,9 @@ MainDialog::MainDialog(QWidget *parent) :
     ui(new Ui::MainDialog)
 {
     ui->setupUi(this);
+
+    //Test 1
+    //add something to commit
 }
 
 MainDialog::~MainDialog()
